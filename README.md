@@ -16,7 +16,7 @@ Status: DarwinCore compliant<br />
 ## Diptera
 Filename: NA<br />
 Source: <a href="http://www.diptera.org/">Systema Dipterorum</a><br />
-Source Contact:<a href="http://hbs.bishopmuseum.org/staff/evenhuis.html">Dr. Neal L. Evenhuis</a><br />
+Source Contact: <a href="http://hbs.bishopmuseum.org/staff/evenhuis.html">Dr. Neal L. Evenhuis</a><br />
 Taxonomic Resource Contact: <a href="https://github.com/vijaybarve">@vijaybarve</a><br />
 Description: A list of dipteran names<br />
 Status: Redacted due to insufficient sharing permissions<br />

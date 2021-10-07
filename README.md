@@ -6,7 +6,7 @@ This repository is meant to facilitate access to taxonomic resources produced by
 # Parasite Taxa
 
 ## Acari (excluding Ixodes)
-Filename: acari.csv<br />
+Filename: <a href="./acari.csv">acari.csv</a><br />
 Source:<br />
 Source Contact:<br />
 Taxonomic Resource Contact: <a href="https://github.com/Jegelewicz">@Jegelewicz</a><br />

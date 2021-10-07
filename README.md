@@ -47,14 +47,6 @@ Status: DarwinCore compliant<br />
 
 # Host Taxa
 
-## Mammalia
-Filename: <a href="./mammalia.csv">mammalia.csv</a><br />
-Source:<br />
-Source Contact:<br />
-Taxonomic Resource Contact: <a href="https://github.com/vijaybarve">@vijaybarve</a><br />
-Description: A list of mammalian names<br />
-Status: Partial DarwinCore compliance; no synonyms<br />
-
 ## Aves
 Filename: <a href="./aves.csv">aves.csv</a><br />
 Source:<br />
@@ -63,3 +55,10 @@ Taxonomic Resource Contact: <a href="https://github.com/vijaybarve">@vijaybarve<
 Description: A list of avian names<br />
 Status: Partial DarwinCore compliance; no synonyms<br />
 
+## Mammalia
+Filename: <a href="./mammalia.csv">mammalia.csv</a><br />
+Source:<br />
+Source Contact:<br />
+Taxonomic Resource Contact: <a href="https://github.com/vijaybarve">@vijaybarve</a><br />
+Description: A list of mammalian names<br />
+Status: Partial DarwinCore compliance; no synonyms<br />

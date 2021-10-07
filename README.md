@@ -9,57 +9,57 @@ This repository is meant to facilitate access to taxonomic resources produced by
 Filename: acari.csv<br />
 Source:<br />
 Source Contact:<br />
-Taxonomic Resource Contact: @Jegelewicz<br />
+Taxonomic Resource Contact: <a href="https://github.com/Jegelewicz">@Jegelewicz</a><br />
 Description: A list of acarian names<br />
 Status: DarwinCore compliant<br />
 
 ## Diptera
-Filename: NA
-Source: 
-Source Contact:
-Taxonomic Resource Contact: @vijaybarve
-Description: A list of dipteran names
-Status: Redacted due to insufficient sharing permissions
+Filename: NA<br />
+Source: <br />
+Source Contact:<br />
+Taxonomic Resource Contact: <a href="https://github.com/vijaybarve">@vijaybarve</a><br />
+Description: A list of dipteran names<br />
+Status: Redacted due to insufficient sharing permissions<br />
 
 ## Ixodes
-Filename: ixodes.csv
-Source:
-Source Contact:
-Taxonomic Resource Contact: @njdowdy
-Description: A list of Ixodes
-Status: 
+Filename: ixodes.csv<br />
+Source:<br />
+Source Contact:<br />
+Taxonomic Resource Contact: <a href="https://github.com/njdowdy">@njdowdy</a><br />
+Description: A list of Ixodes<br />
+Status: <br />
 
 ## Phthiraptera
-Filename: phthiraptera.csv
-Source:
-Source Contact:
-Taxonomic Resource Contact: @vijaybarve
-Description: A list of phthirapteran names
-Status: Partial DarwinCore compliance; TaxoList format
+Filename: phthiraptera.csv<br />
+Source:<br />
+Source Contact:<br />
+Taxonomic Resource Contact: <a href="https://github.com/vijaybarve">@vijaybarve</a><br />
+Description: A list of phthirapteran names<br />
+Status: Partial DarwinCore compliance; TaxoList format<br />
 
 ## Siphonaptera
-Filename: siphonaptera.csv
-Source:
-Source Contact:
-Taxonomic Resource Contact: @Jegelewicz
-Description: A list of siphonateran names
-Status: DarwinCore compliant
+Filename: siphonaptera.csv<br />
+Source:<br />
+Source Contact:<br />
+Taxonomic Resource Contact: <a href="https://github.com/Jegelewicz">@Jegelewicz</a><br />
+Description: A list of siphonateran names<br />
+Status: DarwinCore compliant<br />
 
 # Host Taxa
 
 ## Mammalia
-Filename: mammalia.csv
-Source:
-Source Contact:
-Taxonomic Resource Contact: @vijaybarve
-Description: A list of mammalian names
-Status: Partial DarwinCore compliance; no synonyms
+Filename: mammalia.csv<br />
+Source:<br />
+Source Contact:<br />
+Taxonomic Resource Contact: <a href="https://github.com/vijaybarve">@vijaybarve</a><br />
+Description: A list of mammalian names<br />
+Status: Partial DarwinCore compliance; no synonyms<br />
 
 ## Aves
-Filename: aves.csv
-Source:
-Source Contact:
-Taxonomic Resource Contact: @vijaybarve
-Description: A list of avian names
-Status: Partial DarwinCore compliance; no synonyms
+Filename: aves.csv<br />
+Source:<br />
+Source Contact:<br />
+Taxonomic Resource Contact: <a href="https://github.com/vijaybarve">@vijaybarve</a><br />
+Description: A list of avian names<br />
+Status: Partial DarwinCore compliance; no synonyms<br />
 

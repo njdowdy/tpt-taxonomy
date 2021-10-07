@@ -6,12 +6,12 @@ This repository is meant to facilitate access to taxonomic resources produced by
 # Parasite Taxa
 
 ## Acari (excluding Ixodes)
-Filename: acari.csv
-Source:
-Source Contact:
-Taxonomic Resource Contact: @Jegelewicz
-Description: A list of acarian names
-Status: DarwinCore compliant
+Filename: acari.csv<br />
+Source:<br />
+Source Contact:<br />
+Taxonomic Resource Contact: @Jegelewicz<br />
+Description: A list of acarian names<br />
+Status: DarwinCore compliant<br />
 
 ## Diptera
 Filename: NA

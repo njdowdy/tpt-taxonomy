@@ -15,14 +15,14 @@ Status: DarwinCore compliant<br />
 
 ## Diptera
 Filename: NA<br />
-Source: <br />
-Source Contact:<br />
+Source: <a href="http://www.diptera.org/">Systema Dipterorum</a><br />
+Source Contact:<a href="http://hbs.bishopmuseum.org/staff/evenhuis.html">Dr. Neal L. Evenhuis</a><br />
 Taxonomic Resource Contact: <a href="https://github.com/vijaybarve">@vijaybarve</a><br />
 Description: A list of dipteran names<br />
 Status: Redacted due to insufficient sharing permissions<br />
 
 ## Ixodes
-Filename: ixodes.csv<br />
+Filename: <a href="./ixodes.csv">ixodes.csv</a><br />
 Source:<br />
 Source Contact:<br />
 Taxonomic Resource Contact: <a href="https://github.com/njdowdy">@njdowdy</a><br />
@@ -30,7 +30,7 @@ Description: A list of Ixodes<br />
 Status: <br />
 
 ## Phthiraptera
-Filename: phthiraptera.csv<br />
+Filename: <a href="./phthiraptera.csv">phthiraptera.csv</a><br />
 Source:<br />
 Source Contact:<br />
 Taxonomic Resource Contact: <a href="https://github.com/vijaybarve">@vijaybarve</a><br />
@@ -38,7 +38,7 @@ Description: A list of phthirapteran names<br />
 Status: Partial DarwinCore compliance; TaxoList format<br />
 
 ## Siphonaptera
-Filename: siphonaptera.csv<br />
+Filename: <a href="./siphonaptera.csv">siphonaptera.csv</a><br />
 Source:<br />
 Source Contact:<br />
 Taxonomic Resource Contact: <a href="https://github.com/Jegelewicz">@Jegelewicz</a><br />
@@ -48,7 +48,7 @@ Status: DarwinCore compliant<br />
 # Host Taxa
 
 ## Mammalia
-Filename: mammalia.csv<br />
+Filename: <a href="./mammalia.csv">mammalia.csv</a><br />
 Source:<br />
 Source Contact:<br />
 Taxonomic Resource Contact: <a href="https://github.com/vijaybarve">@vijaybarve</a><br />
@@ -56,7 +56,7 @@ Description: A list of mammalian names<br />
 Status: Partial DarwinCore compliance; no synonyms<br />
 
 ## Aves
-Filename: aves.csv<br />
+Filename: <a href="./aves.csv">aves.csv</a><br />
 Source:<br />
 Source Contact:<br />
 Taxonomic Resource Contact: <a href="https://github.com/vijaybarve">@vijaybarve</a><br />

@@ -7,8 +7,8 @@ This repository is meant to facilitate access to taxonomic resources produced by
 
 ## Acari (excluding Ixodes)
 Filename: <a href="./acari.csv">acari.csv</a><br />
-Source:University of Michigan<br />
-Source Contact:<a href="https://webapps.lsa.umich.edu/ummz/insects/personnel/personnelDetail.asp?ID=21">Dr. Barry O’Connor</a><br />
+Source: University of Michigan<br />
+Source Contact: <a href="https://webapps.lsa.umich.edu/ummz/insects/personnel/personnelDetail.asp?ID=21">Dr. Barry O’Connor</a><br />
 Taxonomic Resource Contact: <a href="https://github.com/Jegelewicz">@Jegelewicz</a><br />
 Description: A list of acarian names<br />
 Status: DarwinCore compliant<br />
@@ -23,8 +23,8 @@ Status: Redacted due to insufficient sharing permissions<br />
 
 ## Ixodes
 Filename: <a href="./ixodes.csv">ixodes.csv</a><br />
-Source:US National Tick Collection; Georgia Southern University<br />
-Source Contact:<a href="http://lorenzabeati.klacto.net/">Dr. Lorenza Beati</a><br />
+Source: US National Tick Collection; Georgia Southern University<br />
+Source Contact: <a href="http://lorenzabeati.klacto.net/">Dr. Lorenza Beati</a><br />
 Taxonomic Resource Contact: <a href="https://github.com/njdowdy">@njdowdy</a><br />
 Description: A list of Ixodes<br />
 Status: <br />
@@ -32,15 +32,15 @@ Status: <br />
 ## Phthiraptera
 Filename: <a href="./phthiraptera.csv">phthiraptera.csv</a><br />
 Source:TPT Louse Team<br />
-Source Contact:<a href="https://www.unr.edu/biology/faculty/julie-allen">Dr. Julie Allen</a><br />
+Source Contact: <a href="https://www.unr.edu/biology/faculty/julie-allen">Dr. Julie Allen</a><br />
 Taxonomic Resource Contact: <a href="https://github.com/vijaybarve">@vijaybarve</a><br />
 Description: A list of phthirapteran names<br />
 Status: Partial DarwinCore compliance; TaxoList format<br />
 
 ## Siphonaptera
 Filename: <a href="./siphonaptera.csv">siphonaptera.csv</a><br />
-Source:<a href="https://biology.byu.edu/fleas-of-the-world">Fleas of the World Database</a>; Brigham Young University<br />
-Source Contact:<a href="https://mlbean.byu.edu/curators-and-collection-managers">Michael Hastriter</a><br />
+Source: <a href="https://biology.byu.edu/fleas-of-the-world">Fleas of the World Database</a>; Brigham Young University<br />
+Source Contact: <a href="https://mlbean.byu.edu/curators-and-collection-managers">Michael Hastriter</a><br />
 Taxonomic Resource Contact: <a href="https://github.com/Jegelewicz">@Jegelewicz</a><br />
 Description: A list of siphonateran names<br />
 Status: DarwinCore compliant<br />

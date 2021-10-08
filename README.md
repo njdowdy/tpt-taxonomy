@@ -31,7 +31,7 @@ Status: <br />
 
 ## Phthiraptera
 Filename: <a href="./phthiraptera.csv">phthiraptera.csv</a><br />
-Source:TPT Louse Team<br />
+Source: TPT Louse Team<br />
 Source Contact: <a href="https://www.unr.edu/biology/faculty/julie-allen">Dr. Julie Allen</a><br />
 Taxonomic Resource Contact: <a href="https://github.com/vijaybarve">@vijaybarve</a><br />
 Description: A list of phthirapteran names<br />

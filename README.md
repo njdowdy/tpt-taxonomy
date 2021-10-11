@@ -4,8 +4,8 @@
 This repository is meant to facilitate access to taxonomic resources produced by the Terrestrial Parasite Tracker project. These resources were compiled from various experts and organizations and cleaned. This process is iterative and should not be considered "final". However, this repository constitutes the most up-to-date view of these resources at the time of upload. Improvements to these resources will be reflected here until further notice.
 
 #Contact Information
-Principal Investigator: <a href="mailto: zaspelj@mpm.edu">Dr. Jennifer Zaspel</a>< br/>
-Taxonomy Coordinator (2021-2022): <a href="https://bug.news/about/lab/">Dr. Erika Tucker</a>< br/>
+Principal Investigator: <a href="mailto: zaspelj@mpm.edu">Dr. Jennifer Zaspel</a><br />
+Taxonomy Coordinator (2021-2022): <a href="https://bug.news/about/lab/">Dr. Erika Tucker</a><br />
 GitHub Repository: <a href="https://github.com/njdowdy">Dr. Nicolas J. Dowdy</a><br />
 
 # Parasite Taxa

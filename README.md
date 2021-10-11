@@ -5,7 +5,7 @@ This repository is meant to facilitate access to taxonomic resources produced by
 
 # Contact Information
 Principal Investigator: <a href="mailto: zaspelj@mpm.edu" target="_blank">Dr. Jennifer Zaspel</a><br />
-Taxonomy Coordinator (2021-2022): <a href="https://bug.news/about/lab/" target="_blank">Dr. Erika Tucker</a><br />
+Taxonomy Coordinator (2021-2022): <a href="mailto: emtuckerlab@gmail.com" target="_blank">Dr. Erika Tucker</a><br />
 GitHub Repository: <a href="https://github.com/njdowdy" target="_blank">Dr. Nicolas J. Dowdy</a><br />
 
 # Parasite Taxa

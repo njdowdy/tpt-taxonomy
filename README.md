@@ -7,6 +7,11 @@ This repository is meant to facilitate access to taxonomic resources produced by
 
 Taxonomy files with the “-standardized” ending contain the same data as the matching files with the same name, but with “standardized” headers. That is, all the “standardized” files have the same header names and the columns are arranged in the same order. The same core data as in the original files was used for the “standardized” files and just fit as best as possible to these headers. The metadata file describes the headers used in the “standardized” files and gives links to any DwC terms. 
 
+R scripts used for cleaning general and specific taxon files are available from the following pages:
+ - [Siphonaptera](https://github.com/Jegelewicz/tpt-siphonaptera)
+ - [Ixodes](https://github.com/njdowdy/ixodes-tpt)
+ - [TaxoTools](https://github.com/vijaybarve/taxotools)
+
 
 # Contact Information
 Principal Investigator: <a href="mailto: zaspelj@mpm.edu" target="_blank">Dr. Jennifer Zaspel</a><br />

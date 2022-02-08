@@ -10,6 +10,7 @@ Taxonomy files with the “-standardized” ending contain the same data as the 
 R scripts used for cleaning general and specific taxon files are available from the following pages:
  - [Siphonaptera](https://github.com/Jegelewicz/tpt-siphonaptera)
  - [Ixodes](https://github.com/njdowdy/ixodes-tpt)
+ - [Acari](https://github.com/Jegelewicz/tpt-acari) (Mayfield-Meyer), [Acari](https://github.com/njdowdy/tpt-acari-taxonomy.git) (Dowdy)
  - [TaxoTools](https://github.com/vijaybarve/taxotools)
 
 

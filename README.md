@@ -79,3 +79,7 @@ Source Contact:<br />
 Taxonomic Resource Contact: <a href="https://github.com/vijaybarve" target="_blank">@vijaybarve</a><br />
 Description: A list of mammalian names<br />
 Status: Partial DarwinCore compliance; no synonyms<br />
+
+---
+
+This page can also be linked to using this address: https://bit.ly/TPTresourceHub

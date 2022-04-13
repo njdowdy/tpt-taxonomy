@@ -75,7 +75,8 @@ Status: DarwinCore compliant<br />
 # Host Taxa
 
 ## Aves
-Filename: <a href="./aves.csv" target="_blank">aves.csv</a>; <a href="./Aves-standardized-v2.csv" target="_blank">Aves-standardized-v2.csv</a>; 
+Filename: <a href="./aves.csv" target="_blank">aves.csv</a>; 
+<a href="./Aves-standardized-v2.csv" target="_blank">Aves-standardized-v2.csv</a>; 
 <a href="./Aves-v2-symbiota.csv" target="_blank">Aves-v2-symbiota.csv</a><br />
 Source: [IOC World Bird](https://www.worldbirdnames.org/new/) <br />
 Source Contact:<br />
@@ -84,7 +85,10 @@ Description: A list of avian names<br />
 Status: Partial DarwinCore compliance; no synonyms<br />
 
 ## Mammalia
-Filename: <a href="./mammalia.csv" target="_blank">mammalia.csv</a>; <a href="./Mammalia-standardized-v2.csv" target="_blank">Mammalia-standardized-v2.csv</a><br />
+Filename: <a href="./mammalia.csv" target="_blank">mammalia.csv</a>; 
+<a href="./Mammalia-standardized-v2.csv" target="_blank">Mammalia-standardized-v2.csv</a>; 
+<a href="./Mammalia-v2-symbiota.csv" target="_blank">Mammalia-v2-symbiota.csv</a>
+<br />
 Source: [ASM Mammal Diversity Database](https://www.mammaldiversity.org/) <br />
 Source Contact:<br />
 Taxonomic Resource Contact: <a href="https://github.com/vijaybarve" target="_blank">@vijaybarve</a><br />

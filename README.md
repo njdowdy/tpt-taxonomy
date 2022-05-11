@@ -1,4 +1,4 @@
-# tpt-taxonomy
+# TPT Taxonomy Resource Hub
 ## Foundational Taxonomic Resources For The Terrestrial Parasite Tracker (TPT) Project
 
 [![DOI](https://zenodo.org/badge/414722624.svg)](https://zenodo.org/badge/latestdoi/414722624)

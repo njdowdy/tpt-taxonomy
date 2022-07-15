@@ -25,7 +25,7 @@ GitHub Repository: <a href="https://github.com/njdowdy" target="_blank">Dr. Nico
 # Parasite Taxa
 
 ## Acari (excluding Ixodes)
-Filename: <a href="https://github.com/njdowdy/tpt-taxonomy/raw/main/Acari/acari.csv" target="_blank">acari.csv</a>; 
+Filename: <a href="./Acari/acari.csv?=download=1" target="_blank">acari.csv</a>; 
 <a href="./Acari/Acari-standardized-v2.csv" target="_blank">Acari-standardized-v2.csv</a>; 
 <a href="./Acari/Acari-v2-symbiota.csv" target="_blank">Acari-v2-symbiota.csv</a><br />
 Source: University of Michigan<br />

@@ -17,15 +17,32 @@ R scripts used for cleaning general and specific taxon files are available from 
  - [TaxoTools](https://github.com/vijaybarve/taxotools)
 
 
-# Contact Information
+### Contact Information
 Principal Investigator: <a href="mailto: zaspelj@mpm.edu" target="_blank">Dr. Jennifer Zaspel</a><br />
 Taxonomy Coordinator (2021-2022): <a href="mailto: emtuckerlab@gmail.com" target="_blank">Dr. Erika Tucker</a><br />
 GitHub Repository: <a href="https://github.com/njdowdy" target="_blank">Dr. Nicolas J. Dowdy</a><br />
 
+---
+
+# File Download Help
+## Option 1: 
+* Click file link to raw page
+   * Click download button to view raw data on screen
+   * View or copy data to file
+   
+   **OR**
+   
+   * Right click download button and select "save as" to download .csv file
+
+ ## Option 2: 
+ * Right click file link and select "save as" to download immediately
+---
+
+# Data Files & Associated Information
 # Parasite Taxa
 
 ## Acari (excluding Ixodes)
-Filename: <a href="./Acari/acari.csv.gz?=download=1" target="_blank">acari.csv</a>; 
+Filename: <a href="./Acari/acari.csv" target="_blank">acari.csv</a>; 
 <a href="./Acari/Acari-standardized-v2.csv" target="_blank">Acari-standardized-v2.csv</a>; 
 <a href="./Acari/Acari-v2-symbiota.csv" target="_blank">Acari-v2-symbiota.csv</a><br />
 Source: University of Michigan<br />

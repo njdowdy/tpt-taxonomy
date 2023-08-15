@@ -25,6 +25,23 @@ Short link to this page: https://bit.ly/TPTresourceHub
 
 ---
 
+# Instructions for Use
+There are two basic ways to use the information provided in this repository:
+## 1. Download Name Lists
+* See next section <b> Download File Help </b> to download available ready to use name lists for research, as database backbones, etc. Name lists can also be used as a starting point for compiling, cleaning, improving, and producing new lists (see "2. Clean Name Lists" below). 
+
+## 2. Clean Name Lists
+* Copy the R-scripts used for name list cleaning:
+  * [Siphonaptera](https://github.com/Jegelewicz/tpt-siphonaptera)
+  * [Ixodes](https://github.com/njdowdy/ixodes-tpt)
+  * [Acari](https://github.com/Jegelewicz/tpt-acari) (Mayfield-Meyer), [Acari](https://github.com/njdowdy/tpt-acari-taxonomy.git) (Dowdy)
+  * [TaxoTools](https://github.com/vijaybarve/taxotools)
+* Read additional use information given in [TaxoTools](https://github.com/vijaybarve/taxotools) documention.
+* Modify and adjust R-scripts to run on your specific name lists
+* Share name lists and scripts with us to add to the repository and improve taxonomic data sharing and transparency
+
+---
+
 # File Download Help
 ## Option 1: 
 * Click file link to raw page

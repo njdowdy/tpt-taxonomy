@@ -79,7 +79,7 @@ Source: <a href="http://www.diptera.org/" target="_blank">Systema Dipterorum</a>
 Source Contact: <a href="http://hbs.bishopmuseum.org/staff/evenhuis.html" target="_blank">Dr. Neal L. Evenhuis</a><br />
 Taxonomic Resource Contact: <a href="https://github.com/vijaybarve" target="_blank">@vijaybarve</a><br />
 Description: A list of dipteran names<br />
-Status: Redacted due to insufficient sharing permissions<br />
+Status: Sourced from Systema Dipterorum (Evenhuis and Pape [eds] 2021) <br />
 
 ## Ixodida
 File (standard format): <a href="./Ixodida/Ixodida-standardized-v2.csv" target="_blank">Ixodida-standardized-v2.csv</a><br /> 

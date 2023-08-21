@@ -70,6 +70,8 @@ Taxonomic Resource Contact: <a href="https://github.com/Jegelewicz" target="_bla
 Description: A list of acarian names<br />
 Status: DarwinCore compliant<br />
 Older archived file versions are available <a href="https://github.com/njdowdy/tpt-taxonomy/tree/main/Acari" target="_blank">here</a> <br />
+<br> _Recommended Citation:_ <br>
+* [Barry O’Connor](https://lsa.umich.edu/ummz/people/curators-staff/bmoc.html), [Hans Klompen](https://eeob.osu.edu/people/klompen.1). Terrestrial Parasite Tracker Acari (excluding Ixodes) Name List. _GitHub:_ [Dataset]. Download date. 
 
 ## Diptera
 Filename: NA<br />
@@ -88,6 +90,8 @@ Taxonomic Resource Contact: <a href="https://github.com/njdowdy" target="_blank"
 Description: A list of Ixodida names<br />
 Status: DarwinCore compliant; no synonyms provided<br />
 Older archived file versions are available [here](https://github.com/njdowdy/tpt-taxonomy/tree/main/Ixodida)<br />
+<br> _Recommended Citation:_ <br>
+* [Lorenza Beati](https://cosm.georgiasouthern.edu/biology/people/faculty/lorenza-beati/), [Mike Teglas](https://www.unr.edu/eecb/people/mike-teglas). Terrestrial Parasite Tracker Ixodida Name List. _GitHub:_ [Dataset]. Download date. 
 
 ## Phthiraptera
 File (standard format): <a href="./Phthiraptera/Phthiraptera-standardized-v2.csv" target="_blank">Phthiraptera-standardized-v2.csv</a> <br />
@@ -98,6 +102,8 @@ Taxonomic Resource Contact: <a href="https://github.com/vijaybarve" target="_bla
 Description: A list of phthirapteran names<br />
 Status: Partial DarwinCore compliance; TaxoList format<br />
 Older archived file versions are available [here](https://github.com/njdowdy/tpt-taxonomy/tree/main/Siphonaptera) <br />
+<br> _Recommended Citation:_ <br>
+* [Julie Allen](https://www.unr.edu/biology/faculty/julie-allen), [Sarah Bush](http://darwin.biology.utah.edu/Biopages/BushBio.html), [Jessica Light](https://wfsc.tamu.edu/people/light-jessica/), [Jason Weckstein](https://drexel.edu/coas/faculty-research/faculty-directory/weckstein-jason/). Terrestrial Parasite Tracker Phthiraptera Name List. _GitHub:_ [Dataset]. Download date. 
 
 ## Siphonaptera
 File (standard format): <a href="./Siphonaptera/Siphonaptera-standardized-v2.csv" target="_blank">Siphonaptera-standardized-v2.csv</a> <br /> 
@@ -108,6 +114,8 @@ Taxonomic Resource Contact: <a href="https://github.com/Jegelewicz" target="_bla
 Description: A list of siphonateran names<br />
 Status: DarwinCore compliant<br />
 Older archived file versions are available [here](https://github.com/njdowdy/tpt-taxonomy/tree/main/Siphonaptera) <br />
+<br> _Recommended Citation:_ <br>
+* [Michael Hastriter](https://species.wikimedia.org/wiki/Michael_W._Hastriter). Terrestrial Parasite Tracker Siphonaptera Name List. _GitHub:_ [Dataset]. Download date.
 
 # Host Taxa
 
@@ -120,6 +128,9 @@ Taxonomic Resource Contact: <a href="https://github.com/vijaybarve" target="_bla
 Description: A list of avian names<br />
 Status: Partial DarwinCore compliance; no synonyms<br />
 Older archived file versions are available [here](https://github.com/njdowdy/tpt-taxonomy/tree/main/host_files) <br />
+<br> _Recommended Citation:_ <br>
+* [Jason Weckstein](https://drexel.edu/coas/faculty-research/faculty-directory/weckstein-jason/), [VertNet](http://vertnet.org/). Terrestrial Parasite Tracker Aves Name List. _GitHub:_ [Dataset]. Download date.
+
 
 ## Mammalia
 File (standard format): <a href="./host_files/Mammalia-standardized-v2.csv" target="_blank">Mammalia-standardized-v2.csv</a> <br />
@@ -130,6 +141,9 @@ Taxonomic Resource Contact: <a href="https://github.com/vijaybarve" target="_bla
 Description: A list of mammalian names<br />
 Status: Partial DarwinCore compliance; no synonyms<br />
 Older archived file versions are available [here](https://github.com/njdowdy/tpt-taxonomy/tree/main/host_files) <br />
+<br> _Recommended Citation:_ <br>
+* [ASM Mammal Diversity Database](http://www.mammaldiversity.org/), [Mammal Species of the World](https://www.departments.bucknell.edu/biology/resources/msw3/), [Jessica Light](https://wfsc.tamu.edu/people/light-jessica/), [VertNet](http://vertnet.org/). Terrestrial Parasite Tracker Mammalia Name List. _GitHub:_ [Dataset]. 
+
 
 ---
 
